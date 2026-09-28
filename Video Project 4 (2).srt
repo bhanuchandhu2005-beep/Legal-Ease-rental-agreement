@@ -1,0 +1,127 @@
+1
+00:03:43,720 --> 00:03:46,455
+this is the VS Code application. Here
+
+2
+00:03:46,455 --> 00:03:48,409
+you can create your project.
+
+3
+00:03:49,309 --> 00:03:51,829
+The project is developed using Python.
+
+4
+00:03:53,349 --> 00:03:56,300
+Here you can see my project name
+
+5
+00:03:56,300 --> 00:03:58,829
+Legalease. This is a folder.
+
+6
+00:03:59,469 --> 00:04:02,417
+In this you can create back end front
+
+7
+00:04:02,417 --> 00:04:04,629
+end dot env requirements dot text.
+
+8
+00:04:05,709 --> 00:04:08,489
+Uh in front end you can create
+
+9
+00:04:08,489 --> 00:04:11,269
+many files uh like main dot Python.
+
+10
+00:04:12,149 --> 00:04:14,549
+And proof start Python in front end.
+
+11
+00:04:15,879 --> 00:04:18,393
+App dot PY. Etcetera.
+
+12
+00:04:18,393 --> 00:04:21,015
+Here the back end is
+
+13
+00:04:21,015 --> 00:04:23,636
+implemented using Fast API, The
+
+14
+00:04:23,636 --> 00:04:26,258
+front end is developed using
+
+15
+00:04:26,258 --> 00:04:28,880
+Streamlight and Google Gemini is
+
+16
+00:04:28,880 --> 00:04:31,501
+used for generative AI based
+
+17
+00:04:31,501 --> 00:04:34,123
+document generation. The project also
+
+18
+00:04:34,123 --> 00:04:36,745
+includes document formatting and export
+
+19
+00:04:36,745 --> 00:04:39,669
+functionality. This is
+
+20
+00:04:39,669 --> 00:04:40,869
+the project folders.
+
+21
+00:04:44,049 --> 00:04:46,561
+The complete project source code under
+
+22
+00:04:46,561 --> 00:04:49,492
+Project Files have been uploaded to a
+
+23
+00:04:49,492 --> 00:04:52,416
+public github. Repository as
+
+24
+00:04:52,416 --> 00:04:55,182
+required. The repository contains the
+
+25
+00:04:55,182 --> 00:04:57,396
+project implementation and supporting
+
+26
+00:04:57,396 --> 00:04:57,949
+files.
+
+27
+00:05:02,169 --> 00:05:04,894
+Here you can find terminal,
+
+28
+00:05:04,894 --> 00:05:07,613
+a new terminal. Here
+
+29
+00:05:07,613 --> 00:05:10,300
+you can create your. Codings and
+
+30
+00:05:10,300 --> 00:05:13,069
+you can run and get the output.
+
+31
+00:05:14,969 --> 00:05:17,769
+So this is my project. Thank you
+
+32
+00:05:17,769 --> 00:05:19,769
+for watching my project demonstration.
